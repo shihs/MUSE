@@ -1,3 +1,5 @@
+中文翻譯：https://ptorch.com/news/110.html
+
 ## MUSE: Multilingual Unsupervised and Supervised Embeddings
 ![Model](./outline_all.png)
 
